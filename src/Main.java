@@ -12,7 +12,7 @@ public class Main {
 
 
             System.out.println(hero.getAttackType() + " " + hero.getHealth() + " " + hero.getDamage());
-            
+
 
         }
     }
